@@ -1,23 +1,23 @@
 {
-    "platform": "Playstation",
-    "account": {
-      "deviceID": "",
+    "platform": "All systems",
+    "account"bizarrepiano40
+      "deviceID": "devlin lott",
       "accountID": "",
       "secret": ""
     },
     "cosmetics": {
-      "skin": "Skull Trooper",
+      "skin": "Renagade raider ",
       "backpack": "",
-      "emote": "Floss",
+      "emote": "All",
       "emoji": "",
-      "pickaxe": "",
-      "pet": ""
+      "pickaxe"all "",
+      "pet": "all"
     },
     "cosmetics_variants": {
       "skin": [{"item": "AthenaCharacter", "channel": "ClothingColor", "variant": "Mat1"}],
-      "backpack": [],
-      "pickaxe": [],
-      "pet": []
+      "backpack": [all],
+      "pickaxe": [all],
+      "pet": [all]
     },
-    "owners": ["LupusLeaks YT"]
+    "owners": [" bizarrepiano40 "]
   }
